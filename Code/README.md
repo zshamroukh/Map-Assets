@@ -1,3 +1,3 @@
 # Code
 
-Code for maps and charts
+Code for maps and charts.
